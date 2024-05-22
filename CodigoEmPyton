@@ -83,3 +83,5 @@ while True:
             encontreiUmaLetra = True
     if encontreiUmaLetra == False:
             forca += 1
+
+teste 2
